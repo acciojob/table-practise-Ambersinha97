@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+caption {
+	text-align: center;
+}
 table {
 	border: 1px solid black;
 	background: yellow;
